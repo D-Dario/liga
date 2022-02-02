@@ -1,0 +1,54 @@
+#folha {
+  width: 1250px;
+  height: 1000px;
+  border: 1px solid darkcyan;
+  margin: auto;
+  position: relative;
+}
+
+#foto {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  border: 1px solid black;
+  box-shadow: 3px 3px 10px black;
+  margin: 10px;
+}
+
+#curriculo {
+  float: right;
+  margin-top: 70px;
+  margin-right: 560px;
+}
+
+#dario {
+  position: absolute;
+  float: left;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+#rede {
+  position: relative;
+  margin-left: 500px;
+}
+
+#dados {
+  position: relative;
+  margin-left: 25px;
+}
+
+#academico {
+  position: relative;
+  margin-left: 25px;
+}
+
+#historico {
+  position: relative;
+  margin-left: 25px;
+}
+
+#bh {
+  position: relative;
+  margin-left: 530px;
+}
